@@ -1,4 +1,6 @@
 # Munchables
+Social media app for foodies. Sign up, post recipes, join clubs, follow users, and scroll through a curated feed. Made with Java Swing.
+
 
 ## Team Members
 
